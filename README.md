@@ -1,4 +1,4 @@
-# SentimentAnalyzer
+# Sentiment Analyzer
 Sentiment analyzer for Spanish documents using supervised and non-supervised classifiers. Here I implemented a set of experiments to address the global polarity classification task of Spanish Tweets of TASS 2015 at XXXI Congress of the Spanish Society for Natural Language Processing. I compared the main supervised classification algorithms for Sentiment Analysis.
 
 ## Dataset
