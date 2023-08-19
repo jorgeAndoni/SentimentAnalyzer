@@ -11,6 +11,7 @@ In this work, I compared some supervised classification methods in order to dete
 <img src="sa_arquitecture.png" width="400" height="400">
 
 ## Main results
+I used the corpora provided by the organization of  [TASS 2015](http://tass.sepln.org/2015/tass2015.php). I performed a series of tests to address the Task 1 of TASS 2015, focusing on finding the global polarity of the Tweets corpora for 4 class labels (P, N, NEU, NONE). I evaluated the accuracy obtained for each proposed approach. The main results are shown in the following table:  
 
 <img src="sa_results.png" width="300" height="200">
 
