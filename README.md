@@ -6,7 +6,8 @@ The corpus contains over 68 000 Twitter messages, written in Spanish by about 15
 ![Dataset example](dataset.png)
 
 ## Methodology
-aa
+
+![aa](sa_arquitecture.png)
 
 
 ## Main results
