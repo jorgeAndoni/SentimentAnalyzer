@@ -6,6 +6,7 @@ The corpus contains over 68 000 Twitter messages, written in Spanish by about 15
 ![Dataset example](dataset.png)
 
 ## Methodology
+In this work, I compared some supervised classification methods in order to determine the performance of these algorithms in a set of opinions written by Spanish users. For the experiments I used the following supervised classifiers: Support Vector Machines, Naive Bayes, Maximum Entropy and Decision Trees.  I also proposed to improve the performance of these classifiers using a class reduction technique and then a voting algorithm called Naive Voting. In this technique, which has as input parameters the four classifiers, the opinion is classified according to the majority agreement, i.e., the class with most votes in each classifier will be the winning class. The architecture of this system is shown in the next figure: 
 
 <img src="sa_arquitecture.png" width="400" height="400">
 
