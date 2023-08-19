@@ -7,10 +7,11 @@ The corpus contains over 68 000 Twitter messages, written in Spanish by about 15
 
 ## Methodology
 
-<img src="sa_arquitecture.png" width="500" height="500">
+<img src="sa_arquitecture.png" width="400" height="400">
 
 ## Main results
-aa
+
+<img src="sa_results.png" width="300" height="200">
 
 ## References
 [Comparing supervised learning methods for classifying Spanish tweets](https://ceur-ws.org/Vol-1397/sanpablo.pdf). J Valverde, J Tejada, E Cuadros. TASS SEPLN, CEUR workshop proceedings 1397, 87-92
